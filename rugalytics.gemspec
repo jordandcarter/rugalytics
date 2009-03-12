@@ -1,6 +1,6 @@
 spec = Gem::Specification.new do |s|
   s.name = 'rugalytics'
-  s.version = '0.3.1'
+  s.version = '0.3.2'
   s.summary = "Google analytics api"
   s.description = %{Google analytics api}
   s.files = ["lib/rugalytics/account.rb", "lib/rugalytics/connection.rb", "lib/rugalytics/graph.rb", "lib/rugalytics/item.rb", "lib/rugalytics/profile.rb", "lib/rugalytics/report.rb", "lib/rugalytics/server.rb", "lib/rugalytics.rb"]
